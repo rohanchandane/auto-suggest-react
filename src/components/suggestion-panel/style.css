@@ -1,0 +1,14 @@
+.suggestions {
+    width: 99%;
+    border: 1px solid black;
+}
+
+.suggestion {
+    width: 100%;
+    cursor: pointer;
+}
+
+.suggestion:hover {
+    color: black;
+    background-color: lightgray;
+}
